@@ -1,0 +1,11 @@
+add this to pom.xml:
+
+<dependency>
+<groupId>org.springdoc</groupId>
+<artifactId>springdoc-openapi-starter-webmvc-ui</artifactId>
+<version>2.0.3</version>
+</dependency>
+
+access whith this url:
+
+http://localhost:8089/swagger-ui/index.html
